@@ -8,6 +8,7 @@
     "skipLibCheck": true,
     "outDir": "dist",
     "noEmitOnError": true,
+    "rootDir": "src",
   },
-  "include": ["src"]
+  "include": ["src/**/*"]
 }
